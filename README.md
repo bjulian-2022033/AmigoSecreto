@@ -20,7 +20,6 @@ La interfaz es simple y directa, y funciona completamente en el navegador.
 
 - **HTML**: Para la estructura básica de la página.
 - **JavaScript**: Para la lógica del proyecto.
-- **CSS** (opcional): Para mejorar la apariencia visual (puedes agregar estilos adicionales si lo deseas).
 
 ---
 
